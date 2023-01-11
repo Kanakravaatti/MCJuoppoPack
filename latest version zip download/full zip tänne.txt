@@ -1,1 +1,2 @@
 zipin pitäs aina sisältää kaiken sama mitä tänne gittiin on tungettu
+näköjään zippaa assets kansiosta ei juoppokansiosta
