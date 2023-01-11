@@ -1,4 +1,4 @@
 # MCJuoppoPack
-minecraft paskaa
-elkää paskoko modia pls
-lisätkää juttuja järkevästi
+minecraft paskaa /n
+elkää paskoko modia pls /n
+lisätkää juttuja järkevästi /n
