@@ -1,4 +1,6 @@
 # MCJuoppoPack
-minecraft paskaa /n
-elkää paskoko modia pls /n
-lisätkää juttuja järkevästi /n
+## Helvetin vammanen Minecraft modi
+[^1] Uusin modin versio aina kansiosta
+minecraft paskaa [^note]
+elkää paskoko modia pls [^note]
+lisätkää juttuja järkevästi [^note]
