@@ -2,22 +2,22 @@
   "entity.player.hurt": {
     "sounds": [
       {
-        "name": "customsounds/damage/hit1"
+        "name": "damage/hit1"
       },
       {
-        "name": "customsounds/damage/hit2"
+        "name": "damage/hit2"
       },
       {
-        "name": "customsounds/damage/hit3"
+        "name": "damage/hit3"
       },
       {
-        "name": "customsounds/damage/hit4"
+        "name": "damage/hit4"
       },
 	  {
-        "name": "customsounds/damage/hit5"
+        "name": "damage/hit5"
       },
 	  {
-        "name": "customsounds/damage/hit6"
+        "name": "damage/hit6"
       }
     ],
     "subtitle": "Hurt"
