@@ -1,1 +1,10 @@
-{"credit": "Made with Blockbench - Made by Ryan Garrett - Models are for Classic 3D Only", "parent": "block/oak_door_top_hinge", "ambientocclusion": false, "textures": {"particle": "block/iron_door_bottom", "top": "block/iron_door_top"}}
+{
+	"__comment":"Designed by GeForceLegend",
+	"ambientocclusion":false,
+	"parent":"block/oak_door_top_hinge",
+	"textures":{
+		"layer1":"block/iron_door_top1",
+		"layer2":"block/iron_door_top2",
+		"particle":"block/iron_door_top"
+	}
+}
