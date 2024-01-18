@@ -1,0 +1,7 @@
+{
+	"__comment":"Possible by KarBo_",
+	"parent":"item/clock",
+	"textures":{
+		"layer0":"item/clock_31"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"__comment":"Possibled by KarBo_",
+	"parent":"block/redstone_ore",
+	"textures":{
+		"all":"block/deepslate_redstone_ore_on"
+	}
+}

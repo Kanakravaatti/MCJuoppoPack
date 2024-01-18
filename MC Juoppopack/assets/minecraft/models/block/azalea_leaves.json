@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "minecraft:block/azalea_leaves"
-  }
+	"__comment":"Possible by KarBo_",
+	"parent":"block/leaves",
+	"textures":{
+		"all":"block/azalea_leaves"
+	}
 }

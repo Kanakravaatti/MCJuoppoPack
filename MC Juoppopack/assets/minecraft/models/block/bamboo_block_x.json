@@ -1,0 +1,8 @@
+{
+	"__comment":"Possible by KarBo_",
+	"parent":"block/template_bamboo_block_x",
+	"textures":{
+		"side":"block/bamboo_block",
+		"top":"block/bamboo_block_top"
+	}
+}

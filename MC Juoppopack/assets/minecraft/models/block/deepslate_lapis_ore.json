@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "minecraft:block/deepslate_lapis_ore"
-  }
+	"__comment":"Possibled by KarBo_",
+	"parent":"block/lapis_ore",
+	"textures":{
+		"all":"block/deepslate_lapis_ore"
+	}
 }

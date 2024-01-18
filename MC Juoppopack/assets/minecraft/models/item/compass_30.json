@@ -1,0 +1,7 @@
+{
+	"__comment":"Possible by KarBo_",
+	"parent":"item/compass",
+	"textures":{
+		"layer0":"item/compass_30"
+	}
+}

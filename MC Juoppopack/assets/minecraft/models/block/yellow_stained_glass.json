@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "minecraft:block/yellow_stained_glass"
-  }
+	"__comment":"Possible by KarBo_",
+	"parent":"block/glass",
+	"textures":{
+		"all":"block/yellow_stained_glass"
+	}
 }

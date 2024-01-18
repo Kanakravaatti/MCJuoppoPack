@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "minecraft:block/deepslate_coal_ore"
-  }
+	"__comment":"Possibled by KarBo_",
+	"parent":"block/coal_ore",
+	"textures":{
+		"all":"block/deepslate_coal_ore"
+	}
 }

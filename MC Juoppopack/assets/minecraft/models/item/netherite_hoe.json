@@ -1,0 +1,7 @@
+{
+	"__comment":"Possible by KarBo_",
+	"parent":"item/hoe",
+	"textures":{
+		"hoe":"item/netherite_hoe"
+	}
+}

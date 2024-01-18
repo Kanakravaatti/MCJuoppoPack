@@ -1,8 +1,7 @@
 {
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "top": "minecraft:block/piston_top_sticky",
-    "bottom": "minecraft:block/piston_bottom",
-    "side": "minecraft:block/piston_side"
-  }
+	"__comment":"Possible by KarBo_",
+	"parent":"block/piston_inventory",
+	"textures":{
+		"top":"block/piston_top_sticky"
+	}
 }

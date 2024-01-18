@@ -1,0 +1,7 @@
+{
+	"__comment":"Possible by KarBo_",
+	"parent":"block/glass",
+	"textures":{
+		"all":"block/copper_grate"
+	}
+}

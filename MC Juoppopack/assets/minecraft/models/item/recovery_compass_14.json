@@ -1,0 +1,7 @@
+{
+	"__comment":"Possible by KarBo_",
+	"parent":"item/recovery_compass",
+	"textures":{
+		"layer0":"item/recovery_compass_14"
+	}
+}

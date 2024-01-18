@@ -1,0 +1,7 @@
+{
+	"__comment":"Possible by KarBo_",
+	"parent":"block/copper_bulb",
+	"textures":{
+		"all":"block/copper_bulb_powered"
+	}
+}

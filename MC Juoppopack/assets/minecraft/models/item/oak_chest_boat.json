@@ -1,0 +1,7 @@
+{
+	"__comment":"Possible by KarBo_",
+	"parent":"item/chest_boat",
+	"textures":{
+		"boat":"item/oak_boat_model"
+	}
+}

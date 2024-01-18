@@ -1,6 +1,8 @@
 {
-  "parent": "minecraft:block/template_torch_wall",
-  "textures": {
-    "torch": "minecraft:block/soul_torch"
-  }
+	"__comment":"Possible by KarBo_",
+	"parent":"block/wall_torch",
+	"textures":{
+		"torch":"block/soul_torch",
+		"particle":"block/soul_torch"
+	}
 }

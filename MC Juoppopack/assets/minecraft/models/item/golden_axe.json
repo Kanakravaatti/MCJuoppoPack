@@ -1,0 +1,7 @@
+{
+	"__comment":"Possible by KarBo_",
+	"parent":"item/axe",
+	"textures":{
+		"axe":"item/golden_axe"
+	}
+}

@@ -1,5 +1,5 @@
 {
-	"__comment":"Designed by GeForceLegend",
+	"__comment":"Possible by KarBo_",
 	"variants":{
 		"facing=north,half=bottom,open=false":{"model":"block/oak_trapdoor_bottom"},
 		"facing=south,half=bottom,open=false":{"model":"block/oak_trapdoor_bottom","y":180},
