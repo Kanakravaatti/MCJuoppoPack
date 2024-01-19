@@ -12,6 +12,9 @@
       },
       {
         "name": "damage/hit4"
+      },
+      {
+        "name": "damage/hit5"
       }
     ],
     "subtitle": "Hurt"
