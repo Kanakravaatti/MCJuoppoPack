@@ -15,6 +15,18 @@
       },
       {
         "name": "damage/hit5"
+      },
+      {
+        "name": "damage/hit6"
+      }
+      {
+        "name": "damage/hit7"
+      },
+      {
+        "name": "damage/hit8"
+      },
+      {
+        "name": "damage/hit9"
       }
     ],
     "subtitle": "Hurt"
