@@ -18,7 +18,7 @@
       },
       {
         "name": "damage/hit6"
-      }
+      },
       {
         "name": "damage/hit7"
       },
@@ -27,6 +27,15 @@
       },
       {
         "name": "damage/hit9"
+      },
+      {
+        "name": "damage/hurt7"
+      },
+      {
+        "name": "damage/hurt8"
+      },
+      {
+        "name": "damage/hit10"
       }
     ],
     "subtitle": "Hurt"
