@@ -40,28 +40,7 @@
     ],
     "subtitle": "Hurt"
   },
-  "block.ender_chest.close": {
-    "replace": true,
-    "sounds": [
-      "block/chest/closerelease"
-    ],
-    "subtitle": "subtitles.block.chest.close"
-  },
   "block.ender_chest.open": {
-    "replace": true,
-    "sounds": [
-      "block/chest/openrelease"
-    ],
-    "subtitle": "subtitles.block.chest.open"
-  },
-  "block.chest.close": {
-    "replace": true,
-    "sounds": [
-      "block/chest/closerelease"
-    ],
-    "subtitle": "subtitles.block.chest.close"
-  },
-  "block.chest.open": {
     "replace": true,
     "sounds": [
       "block/chest/openrelease"
