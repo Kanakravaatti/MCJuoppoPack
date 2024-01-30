@@ -36,3 +36,4 @@ Saved!
 Node Graph out of Date. Rebuilding...
 Entäs jos pelattas joskus muuta?
 "Ei tätä voi pelata kun ukot pelaa 16h päivässä..."
+Mälli maistuu
